@@ -42,6 +42,10 @@ Install the required libraries:
 pip install -r requirements.txt
 
 ```
+
+## ☁️ Deployment :
+
+https://ai-text-summarizer-mkyppvns3tndlvtxfukqqq.streamlit.app/
 Run the Streamlit app
 ```bash
 streamlit run app.py
