@@ -21,6 +21,12 @@ It allows users to input long texts and receive a concise, meaningful summary po
 - PyTorch (for backend model support)
 
 ---
+## 📸 Project Screenshot
+
+![Image](https://github.com/user-attachments/assets/3fa77b20-54cc-4fa4-b33d-5e1ee088b89d)
+
+---
+
 
 ## 📦 Installation
 
