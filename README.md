@@ -28,3 +28,16 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/AI_Text_Summarizer.git
 cd AI_Text_Summarizer
+
+```
+
+Install the required libraries:
+```bash
+pip install -r requirements.txt
+
+```
+Run the Streamlit app
+```bash
+streamlit run app.py
+
+
