@@ -43,11 +43,17 @@ pip install -r requirements.txt
 
 ```
 
-## ☁️ Deployment :
-
-https://ai-text-summarizer-mkyppvns3tndlvtxfukqqq.streamlit.app/
 Run the Streamlit app
 ```bash
 streamlit run app.py
+```
+
+---
+## ☁️ Deployment :
+
+https://ai-text-summarizer-mkyppvns3tndlvtxfukqqq.streamlit.app/?embed_options=dark_theme,show_padding,show_toolbar,light_theme,show_footer,show_colored_line
+
+
+
 
 
